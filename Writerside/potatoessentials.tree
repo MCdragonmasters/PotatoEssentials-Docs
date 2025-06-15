@@ -3,8 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="potatoessentials"
-                 name="potatoessentials"
+                 name="PotatoEssentials"
                  start-page="main.md">
 
-    <toc-element topic="main.md"/>
+    <toc-element topic="main.md">
+        <toc-element topic="Commands.md"/>
+    </toc-element>
 </instance-profile>

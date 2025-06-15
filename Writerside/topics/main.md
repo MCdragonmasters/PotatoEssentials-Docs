@@ -1,7 +1,2 @@
-# About potatoessentials
-
-<!--TODO-->
-
-## fr
-
+# PotatoEssentials Docs
 
